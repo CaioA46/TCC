@@ -1,0 +1,134 @@
+/**
+    Feito por: Larissa
+    Data: 17/10
+**/
+
+#conteudo{
+    width:1640px;
+    height: 1135px;
+    margin-top: -30px;
+    padding-right: 5px;
+    padding-left: 2px;
+    border: solid 1px black;
+}
+
+.titulo_historico{
+    width:1650;
+    height:40px;
+    font-size: 30px;
+    padding-top: 10px;
+    padding-left: 10px;
+    border-bottom: solid 1px black;
+}
+#cadastrar_evento{
+    width:100%;
+    height:650px;
+}
+.margem{
+    float: left;
+    font-size: 25px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: solid 1px transparent;
+    
+}
+.imagens_evento{
+    float: left;
+    clear: both;
+    width:1645px;
+    height:300px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    border: solid 1px white;
+}
+.lista_imgs_evento{
+    list-style: none;
+}
+.lista_imgs_evento li{
+    width: 320px;
+    height:300px;
+    float: left;
+    margin-left: 5px;
+    text-align: center;
+    border: solid 1px #FFF;
+}
+.imgEvento{
+    width: 250px;
+    height:200px;
+    margin-top: 4px;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid 1px black;
+}
+.imgEvento img{
+    max-width: 100%;
+    max-height: 200px;
+}
+.lista_imgs_evento li p{
+    font-size: 25px;
+    margin-top: 4px;
+}
+.clear{
+    float: left;
+    clear: both;
+}
+.botao{
+    width: 80px;
+    float: left;
+    clear: both;
+    font-size: 20px;
+    margin-left: 15px;
+}
+.lado{
+    margin-left: 5px;
+    float: left;
+}
+textarea{
+    resize: none;
+}
+.cadastrar_imagem{
+    width:190px;
+    height:200px;
+    border: solid 1px black;
+}
+.cadastrar_imagem img{
+    width:190px;
+    height:200px;
+}
+#historico_evento{
+    width:1615px;
+    height:360px;
+    font-size: 28px;
+    padding-top:10px;
+    padding-left:20px;
+    overflow-y:scroll;
+    text-align: center;
+    border: solid 1px black;
+}
+.eventos_todos{
+    float: left;
+    width:300px;
+    height:300px;
+    margin: 5px;
+    padding-top:5px;
+    border: solid 1px black;
+}
+.img_evento_todos{
+    width:280px;
+    height: 200px;
+    margin-left:auto;
+    margin-right:auto;
+    border: solid 1px black;
+}
+.detalhes_evento_todos{
+    font-size: 22px;
+    margin-top: 5px;
+    padding-left: 15px;
+}
+
+
+
+
+
+
